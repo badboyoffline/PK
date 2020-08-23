@@ -1,0 +1,45 @@
+body {
+  border: 5px solid black;
+  background-color: white;
+}
+
+.images {
+border: 6px solid black;
+padding: 2px;
+  display: block;
+  width: 300px;
+  height: 300px;
+  position: relative;
+  left: 40%;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+
+}
+
+
+
+.pkpic {
+  border: 10px dashed;
+  padding: 2px;
+  margin: 10px;
+  position: absolute;
+  left: 40%;
+}
+
+
+.msg {
+  font-family: Arial, bold;
+  font-size: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: justify;
+}
+
+span {
+  font-family: Arial, bold;
+  font-size: 30px;
+
+}
